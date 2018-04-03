@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Gabriel Hurtado  
+ * April 3rd, 2018
+ * CD calculator, a program that will allow users use a
+ * type of investment that matures at a specified interest rate for a specified period.
  */
 
 package CD;
